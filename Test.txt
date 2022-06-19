@@ -1,0 +1,1 @@
+This is a text file madt to test the build automation
