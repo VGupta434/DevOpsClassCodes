@@ -35,5 +35,5 @@ spec:
     spec:
       containers:
       - name: addressbook-cont
-        image: vivekgupta434/addressbook-jnkns-k8s:latest
+        image: addressbook-jnkns-k8s-cli:latest
 ---
